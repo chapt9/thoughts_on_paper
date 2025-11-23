@@ -11,7 +11,8 @@
 
 ## Earlier work where i am acknowledged.
 
-- **Aleph: A Leaderless, Asynchronous, BFT Consensus Protocol (arXiv:1810.05256)**  
+- **Aleph: A Leaderless, Asynchronous, BFT Consensus Protocol (arXiv:1810.05256)**
+- https://arxiv.org/abs/1810.05256
   A leaderless asynchronous BFT protocol that orders messages using a DAG and randomized agreement.
 
 ## Note
