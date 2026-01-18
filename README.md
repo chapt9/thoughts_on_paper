@@ -8,9 +8,11 @@
 - **ZK-DABE: Zero-Knowledge and Ledger-Anchored Multi-Authority ABE**  
   A multi-authority ABE scheme where access, revocation, and “NOT” policies are enforced via zero-knowledge proofs on a public ledger.
 
-- **Confidential Telemetry at Line Rate**  
+- **Confidential Telemetry at Line Rate (Deprecated)**  
   A telemetry pipeline that uses streaming zero-knowledge proofs to show that high-rate encrypted metrics satisfy a policy before being accepted.
 
+- **Confidential Telemetry**
+  Confidential telemetry using bulletproofs. Replaces earlier paper Confidential Telemetry at Line Rate.
 ---
 
 ### Note
